@@ -3,10 +3,10 @@
 **A Federated Learning framework with Homomorphic Encryption for secure Electronic Health Records (EHRs) training.** 
 
 ## 🔥 Features
-- **Federated Learning (FL) with Homomorphic Encryption (HE)**
-- **Privacy-Preserving AI for Healthcare**
-- **Optimized BFV and CKKS Encryption for Secure Model Aggregation**
-- **Benchmarking on MIMIC-III Medical Dataset**
+- Federated Learning (FL) with Homomorphic Encryption (HE)
+- Privacy-Preserving AI for Healthcare
+- Optimized BFV & CKKS Encryption for Secure Model Aggregation
+- Benchmarking on MIMIC-III Medical Dataset.
 
 ## 🛠️ Tech Stack
 - **Python** (PyTorch, NumPy, Pandas)
