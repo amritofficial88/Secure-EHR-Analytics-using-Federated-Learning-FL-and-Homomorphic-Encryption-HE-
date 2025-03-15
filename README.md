@@ -12,7 +12,7 @@
 - **Python** (PyTorch, NumPy, Pandas)
 - **Flower FL Framework**
 - **TenSEAL for Homomorphic Encryption**
-- **Google Colab & AWS EC2 Deployment**
+- **Google Collab Deployment**
 
 ## 📂 Project Structure
 ```
