@@ -6,7 +6,7 @@
 - Federated Learning (FL) with Homomorphic Encryption (HE)
 - Privacy-Preserving AI for Healthcare
 - Optimized BFV & CKKS Encryption for Secure Model Aggregation
-- Benchmarking on MIMIC-III Medical Dataset.
+- Healthcare Datasets (Temporary) - Kaggle.
 
 ## 🛠️ Tech Stack
 - **Python** (PyTorch, NumPy, Pandas)
