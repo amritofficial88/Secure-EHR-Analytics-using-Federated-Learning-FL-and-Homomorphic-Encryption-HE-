@@ -66,8 +66,7 @@ python train_federated.py
 | FL + Homomorphic Encryption | 94.2% | 350 ms |
 
 ## 📖 Research Paper & Documentation
-- **Research Paper:** (Soon)
-- **Technical Documentation:** (Soon)
+- **Research Paper:** [View](https://drive.google.com/file/d/1SnkvgD2mJJG2TCLY9B3_bZiKeHYAImS7/view?usp=sharing)
 
 ## 🤝 Contributing
 Feel free to fork this repository, open issues, or submit pull requests! 
