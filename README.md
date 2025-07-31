@@ -42,22 +42,6 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
 ```
 
-## Usage
-### **Run FL Clients**
-```bash
-python client.py
-```
-
-### **Run FL Server**
-```bash
-python server.py
-```
-
-### **Train Model**
-```bash
-python train_federated.py
-```
-
 ## Results & Performance
 | Model | Accuracy | Encryption Overhead |
 |--------|---------|------------------|
@@ -66,6 +50,13 @@ python train_federated.py
 
 ## Research Paper & Documentation
 - **Research Paper:** [View](https://drive.google.com/file/d/1RppKDM0PM_WpGftkFguAacfYmNjSrLH1/view?usp=sharing)
+
+## Authored by
+- Amritangshu Dey
+- Biprajeet Sen
+- Nupoor Sagar
+- M Karuna Shree
+- Pankh Bansal
 
 ## Contributing
 Feel free to fork this repository, open issues, or submit pull requests! 
