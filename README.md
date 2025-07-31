@@ -1,6 +1,6 @@
-# Privacy-Preserving Federated Learning with Homomorphic Encryption (PrivacyFL-HE)
+# Secure EHR Analytics using Federated Learning (FL) and Homomorphic Encryption (HE)
 
-**A Federated Learning framework with Homomorphic Encryption for secure Electronic Health Records (EHRs) training.** 
+**It is a Federated Learning framework with Homomorphic Encryption for secure Electronic Health Records (EHRs) training.** 
 
 ## Features
 - Federated Learning (FL) with Homomorphic Encryption (HE)
@@ -32,7 +32,7 @@ PrivacyFL-HE/
 ## 📌 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/PrivacyFL-HE.git
+git clone https://github.com/amritofficial88/PrivacyFL-HE.git
 cd PrivacyFL-HE
 
 # Create a virtual environment
