@@ -33,7 +33,6 @@ PrivacyFL-HE/
 ```bash
 # Clone the repository
 git clone https://github.com/amritofficial88/Secure-EHR-Analytics-using-Federated-Learning-FL-and-Homomorphic-Encryption-HE-.git
-cd Secure-EHR-Analytics-using-Federated-Learning-FL-and-Homomorphic-Encryption-HE-.git
 
 # Create a virtual environment
 python3 -m venv venv
@@ -66,7 +65,7 @@ python train_federated.py
 | FL + Homomorphic Encryption | 94.2% | 350 ms |
 
 ## Research Paper & Documentation
-- **Research Paper:** [View](https://drive.google.com/file/d/1SnkvgD2mJJG2TCLY9B3_bZiKeHYAImS7/view?usp=sharing)
+- **Research Paper:** [View](https://drive.google.com/file/d/1RppKDM0PM_WpGftkFguAacfYmNjSrLH1/view?usp=sharing)
 
 ## Contributing
 Feel free to fork this repository, open issues, or submit pull requests! 
